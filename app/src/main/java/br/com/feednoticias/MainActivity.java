@@ -23,7 +23,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String API_KEY = "95455642e8ad406e851b5263d1343e9d";
+    public static final String API_KEY = "5c0e6b8715b04a7795c514607bbbe329";
 
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager layoutManager;
